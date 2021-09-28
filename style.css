@@ -1,7 +1,19 @@
 body {
     font-size: 20px;
-    line-height: 2rem;
     background: linear-gradient(125deg, rgb(212, 0, 255), rgb(25, 0, 255));
+}
+
+div, h1 {
+    text-align: center;
+}
+
+.link-center {
+    margin-left: 38rem;
+}
+
+.centered-card {
+    margin: auto;
+    width: 14rem;
 }
 
 button {
